@@ -13,46 +13,41 @@ const generateReadme = ({
   github,
 }) =>
   `
-  # PROJECT TITLE: ${title}
+# PROJECT TITLE 
+  
+${title}
 
-  ## DESCRIPTION
+# DESCRIPTION 
 
-    ${description}
+${description}
 
-  ##TABLE OF CONTENTS
+# INSTALATION 
 
-  1. [INSTALLATION](#installation)
-  2. [USAGE](#usage)
-  3. [LICENSE](#license)
-  4. [CONTRIBUTION](#contibution)
-  5. [TESTS](#tests)
-  6. [QUESTIONS](#questions)
+${installation}
 
-  ##INSTALATION
+# USAGE 
 
-  ${installation}
+${usage}
 
-  ##USAGE
+# LICENSE 
 
-  ${usage}
+${license}
 
-  ##LICENSE
+# CONTRIBUTION 
 
-  ${license}
+${contribution}
 
-  ##CONTRIBUTION
+# TESTS 
 
-  ${contribution}
+${tests}
 
-  ##TESTS
+# QUESTIONS 
 
-  ${tests}
+${email}
 
-  ##QUESTIONS
+# GITHUB 
 
-  ${email}
-
-  ${github}
+${github}
 
   `;
 

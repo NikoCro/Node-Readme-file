@@ -1,43 +1,38 @@
 
-  # PROJECT TITLE: bla
+# PROJECT TITLE 
+  
+readme file
 
-  ## DESCRIPTION
+# DESCRIPTION 
 
-    bla
+generating a readme file
 
-  ##TABLE OF CONTENTS
+# INSTALATION 
 
-  1. [INSTALLATION](#installation)
-  2. [USAGE](#usage)
-  3. [LICENSE](#license)
-  4. [CONTRIBUTION](#contibution)
-  5. [TESTS](#tests)
-  6. [QUESTIONS](#questions)
+npm
 
-  ##INSTALATION
+# USAGE 
 
-  none
+nothing specific
 
-  ##USAGE
+# LICENSE 
 
-  nothing
+mit
 
-  ##LICENSE
+# CONTRIBUTION 
 
-  gpl
+nothing specific
 
-  ##CONTRIBUTION
+# TESTS 
 
-  nothing
+jest
 
-  ##TESTS
+# QUESTIONS 
 
-  test run
+nikola1983@yahoo.com
 
-  ##QUESTIONS
+# GITHUB 
 
-  dfnsjfjs
-
-  ldnsln
+NikoCro
 
   
